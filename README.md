@@ -2,13 +2,11 @@
 A Pytorch implementation for replacing a dog/cat image with a GAN(Generative adversarial networks) generated image. The outline(segment mask) of the dog/cat is created using an Image segmentation model.
 
 # Results 
-|![alt text](./assets/p1.png)|
+|![alt text](./assets/epoch1.png)|
 |:--:|
-|*class 156 (512 x 512)*|
-|![alt text](./assets/p2.png)|
-|*class 11 (512 x 512)*|
-|![alt text](./assets/p3.png)|
-|*class 821 (512 x 512)*|
+|*1st epoch*|
+|![alt text](./assets/epoch10.png)|
+|*10th epoch*|
 
 
 # Pretrained Weights 
