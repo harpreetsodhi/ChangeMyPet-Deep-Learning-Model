@@ -8,6 +8,7 @@ A Pytorch implementation for replacing a dog/cat image with a GAN(Generative adv
 |![alt text](./assets/epoch10.png)|
 |*10th epoch*|
 
+The project is still underway. The results are quite interesting and the model is learning to generate images in the required segment. Regularization and ensembling losses have given more accurate results but we are still exploring other techniques. Our next step is to activate Discriminator so that the images generated look more real. 
 
 # Pretrained Weights 
 The pretrained weights are converted from the tensorflow hub modules: 
