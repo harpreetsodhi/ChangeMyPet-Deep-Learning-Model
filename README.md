@@ -1,4 +1,4 @@
-# BigGAN Generators combined with Image Segmentation Model in Pytorch 
+# BigGAN Generators combined with Image Segmentation Model
 A Pytorch implementation for replacing a dog/cat image with a GAN(Generative adversarial networks) generated image. The outline(segment mask) of the dog/cat is created using an Image segmentation model.
 
 # Results 
