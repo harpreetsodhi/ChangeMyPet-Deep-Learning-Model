@@ -1,7 +1,7 @@
 # Change My Pet
 <div align="center">
     <a>
-        <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/logo.png?raw=true">
+        <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/logo1.png?raw=true0" width="300" height="120">
     </a>
 </div>
 <br />
@@ -14,7 +14,7 @@
         <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/example2.png?raw=true" />
     </a>
 </div>
-<br />
+<hr />
 <div align="center">
     <a>
         <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/example1.png?raw=true">
