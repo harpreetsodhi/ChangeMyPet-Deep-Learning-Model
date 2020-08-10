@@ -38,15 +38,17 @@
 
 <br />
 
-The project is still underway. The results are quite interesting and the model is learning to generate images in the required segment. Regularization and ensembling losses have given more accurate results but we are still exploring other techniques. Our next step is to activate Discriminator so that the images generated look more real. 
+The results are quite interesting and the model is learning to generate images in the required segment. Regularization and ensembling losses have given more accurate results but we are still exploring other techniques. Our next step is to include Discriminator so that the images generated look more real. Generate a pull request if you want to conrtribute to the project.
 
+# Demo
 
-# Pretrained Weights 
-The pretrained weights are converted from the tensorflow hub modules: 
-- https://tfhub.dev/deepmind/biggan-128/2  
-- https://tfhub.dev/deepmind/biggan-256/2 
-- https://tfhub.dev/deepmind/biggan-512/2  
-
+- Clone the repository in your GitHub account [Clone with HTTPS](https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model.git)
+- To run the code, please download the pretrained pytorch weights first. [Pretrained Weights](https://github.com/ivclab/BigGAN-Generator-Pretrained-Pytorch/releases/tag/v0.0.0)
+```shell
+    biggan256-release.pt    # download this for generating 256*256 images
+```
+- Upload the .pt file to your google drive.
+- Open Main.ipynb file in Google Colab or your Jupyter Notebook and run it. Comments are added to the file as needed.
 
 # References 
 paper: https://arxiv.org/abs/1809.11096
