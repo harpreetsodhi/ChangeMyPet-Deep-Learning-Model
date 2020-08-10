@@ -22,12 +22,21 @@
 </div>
 <br />
 
+
 # Exciting Gifs:
-![Gif Results](https://raw.githubusercontent.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/master/assets/gif2.gif)
-*dog of the same breed after 25 epochs*
+<div align="center">
+    <a>
+        <img src="https://raw.githubusercontent.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/master/assets/gif2.gif" width="500" height="500"/>
+    </a>
+</div>
+<hr />
+<div align="center">
+    <a>
+        <img src="https://raw.githubusercontent.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/master/assets/gif1.gif" width="500" height="500"/>
+    </a>
+</div>
+
 <br />
-![Gif Results](https://raw.githubusercontent.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/master/assets/gif1.gif)
-*dog of a different breed after 25 epochs*
 
 The project is still underway. The results are quite interesting and the model is learning to generate images in the required segment. Regularization and ensembling losses have given more accurate results but we are still exploring other techniques. Our next step is to activate Discriminator so that the images generated look more real. 
 
