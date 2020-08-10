@@ -11,10 +11,10 @@
 # Results:
 <div align="center">
     <a>
-        <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/example2.png?raw=true">
+        <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/example2.png?raw=true" />
     </a>
 </div>
-<br />
+<hr />
 <div align="center">
     <a>
         <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/example1.png?raw=true">
@@ -22,15 +22,15 @@
 </div>
 <br />
 
+# Exciting Gifs:
+![Gif Results](https://raw.githubusercontent.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/master/assets/gif2.gif)
+*dog of the same breed after 25 epochs*
+<br />
+![Gif Results](https://raw.githubusercontent.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/master/assets/gif1.gif)
+*dog of a different breed after 25 epochs*
+
 The project is still underway. The results are quite interesting and the model is learning to generate images in the required segment. Regularization and ensembling losses have given more accurate results but we are still exploring other techniques. Our next step is to activate Discriminator so that the images generated look more real. 
 
-# Architecture
-<div align="center">
-    <a>
-        <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/logo.png?raw=true">
-    </a>
-</div>
-<br />
 
 # Pretrained Weights 
 The pretrained weights are converted from the tensorflow hub modules: 
