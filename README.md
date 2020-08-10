@@ -50,5 +50,6 @@ The pretrained weights are converted from the tensorflow hub modules:
 
 # References 
 paper: https://arxiv.org/abs/1809.11096
-
-https://github.com/ajbrock/BigGAN-PyTorch
+https://github.com/ivclab/BIGGAN-Generator-Pretrained-Pytorch
+https://pytorch.org/hub/pytorch_vision_fcn_resnet101/
+https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/
