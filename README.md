@@ -47,7 +47,7 @@ The results are quite interesting and the model is learning to generate images i
 ```shell
     biggan256-release.pt    # download this for generating 256*256 images
 ```
-- Upload the .pt file to your google drive.
+- Upload the biggan256-release.pt file to your google drive.
 - Open Main.ipynb file in Google Colab or your Jupyter Notebook and run it. Comments are added to the file as needed.
 
 # References 
