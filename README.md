@@ -4,21 +4,33 @@
         <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/logo.png?raw=true">
     </a>
 </div>
-
 <br />
 
-
-# BigGAN Generators combined with Image Segmentation Model
-A Pytorch implementation for replacing a dog/cat image with a GAN(Generative adversarial networks) generated image. The outline(segment mask) of the dog/cat is created using an Image segmentation model.
+> ChangeMyPet provides a deep learning model that is capable of replacing a real dog/cat image with a GAN(Generative adversarial network) generated image with the help of segmentation masks.
 
 # Results:
-|![alt text](./assets/epoch.png)|
-|:--:|
-|*1st epoch*|
-|![alt text](./assets/epoch19.png)|
-|*19th epoch*|
+<div align="center">
+    <a>
+        <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/example2.png?raw=true">
+    </a>
+</div>
+<br />
+<div align="center">
+    <a>
+        <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/example1.png?raw=true">
+    </a>
+</div>
+<br />
 
 The project is still underway. The results are quite interesting and the model is learning to generate images in the required segment. Regularization and ensembling losses have given more accurate results but we are still exploring other techniques. Our next step is to activate Discriminator so that the images generated look more real. 
+
+# Architecture
+<div align="center">
+    <a>
+        <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/logo.png?raw=true">
+    </a>
+</div>
+<br />
 
 # Pretrained Weights 
 The pretrained weights are converted from the tensorflow hub modules: 
