@@ -1,3 +1,13 @@
+# Change My Pet
+<div align="center">
+    <a>
+        <img src="https://github.com/harpreetsodhi/ChangeMyPet_Deep_Learning_Model/blob/master/assets/logo.png?raw=true">
+    </a>
+</div>
+
+<br />
+
+
 # BigGAN Generators combined with Image Segmentation Model
 A Pytorch implementation for replacing a dog/cat image with a GAN(Generative adversarial networks) generated image. The outline(segment mask) of the dog/cat is created using an Image segmentation model.
 
